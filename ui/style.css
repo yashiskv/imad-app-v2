@@ -1,22 +1,26 @@
+
+
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    background-image: url('//themes.googleusercontent.com/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa&options=w1600');
 }
-
-.center {
-    text-align: center;
+body {
+    background-image: url('//themes.googleusercontent.com/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa');
 }
-
-.text-big {
-    font-size: 300%;
+body {
+    min-width: 860px;
 }
-
-.bold {
-    font-weight: bold;
+body {
+    font: 15px Arial,Tahoma,Helvetica,FreeSans,sans-serif;
+    color: #454545;
+    }
+body {
+    word-wrap: break-word;
 }
-
-.img-medium {
-    height: 200px;
+body {
+    min-height: 100%;
+    position: relative;
 }
-
+body {
+    margin: 0px;
+    padding: 0px 0px 1px;
+}
