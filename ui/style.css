@@ -7,20 +7,22 @@ body {
     background-image: url('//themes.googleusercontent.com/image?id=1OACCYOE0-eoTRTfsBuX1NMN9nz599ufI1Jh0CggPFA_sK80AGkIr8pLtYRpNUKPmwtEa');
 }
 body {
-    min-width: 860px;
+    font-family: sans-serif;
+    margin-top: 75px;
 }
-body {
-    font: 15px Arial,Tahoma,Helvetica,FreeSans,sans-serif;
-    color: #454545;
-    }
-body {
-    word-wrap: break-word;
+
+.center {
+    text-align: center;
 }
-body {
-    min-height: 100%;
-    position: relative;
+
+.text-big {
+    font-size: 300%;
 }
-body {
-    margin: 0px;
-    padding: 0px 0px 1px;
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 200px;
 }
